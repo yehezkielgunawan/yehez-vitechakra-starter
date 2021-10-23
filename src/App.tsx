@@ -8,11 +8,12 @@ import {
   Link as ChakraLink,
   Icon,
 } from "@chakra-ui/react";
+import { FaGithub, FaReact } from "react-icons/fa";
+import { SiChakraui, SiTypescript, SiVite } from "react-icons/si";
+
 import MotionBox from "components/motion/MotionBox";
 import MainWrap from "components/wrapper/MainWrap";
 import { useDesktopWidthCheck } from "functions/helpers/desktopWidthChecker";
-import { FaGithub, FaReact } from "react-icons/fa";
-import { SiChakraui, SiTypescript, SiVite } from "react-icons/si";
 
 function App() {
   const { colorMode } = useColorMode();
@@ -21,6 +22,7 @@ function App() {
     base: "xs",
     sm: "md",
   });
+
   return (
     <MainWrap>
       <Heading as="h3">Hello World!</Heading>

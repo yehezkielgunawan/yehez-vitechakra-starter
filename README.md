@@ -7,7 +7,7 @@ This is a personalized React JS (using Vite as a build tools, and Chakra UI as a
 
 But if you also find this template is useful, you also can use it. And of course I'm open to any feedbacks. You can fork or clone this repo and make a PR here if you have a some idea.
 
-## ⚡ What's include here? (Coming Soon)
+## ⚡ What's include here?
 
 - Toolings for linting, formatting, and conventions configured.
   Currently, there're just `eslint & prettier`.
@@ -35,5 +35,6 @@ npx degit yehezkielgunawan/yehez-vitechakra-starter <YOUR_APP_NAME>
 
 ## Future Improvement
 - [x] Update the layout
-- [ ] Add ESLint basic configuration
-- [ ] Add prettier basic configuration
+- [x] Add ESLint basic configuration
+- [x] Add prettier basic configuration
+- [ ] Husky base config
