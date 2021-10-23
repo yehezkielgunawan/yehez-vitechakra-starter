@@ -34,6 +34,6 @@ npx degit yehezkielgunawan/yehez-vitechakra-starter <YOUR_APP_NAME>
 - [Sozonome Vite Chakra Starter](https://vite-react-chakra-starter.sznm.dev/) - as my main layout idea reference.
 
 ## Future Improvement
-- [ ] Update the layout
+- [x] Update the layout
 - [ ] Add ESLint basic configuration
 - [ ] Add prettier basic configuration
