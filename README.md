@@ -32,3 +32,8 @@ npx degit yehezkielgunawan/yehez-vitechakra-starter <YOUR_APP_NAME>
 - [Typescript](https://www.typescriptlang.org/) - The programming language
 - [The24thDS Starter Template](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - as my main reference for the base config settings.
 - [Sozonome Vite Chakra Starter](https://vite-react-chakra-starter.sznm.dev/) - as my main layout idea reference.
+
+## Future Improvement
+- [ ] Update the layout
+- [ ] Add ESLint basic configuration
+- [ ] Add prettier basic configuration
