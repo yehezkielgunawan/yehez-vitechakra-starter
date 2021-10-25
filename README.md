@@ -1,4 +1,5 @@
 # Yehez-ViteChakra-Starter
+
 ![Yehezkiel Gunawan's Vite + React + Typescript + Chakra UI Personalized template](https://socialify.git.ci/yehezkielgunawan/yehez-vitechakra-starter/image?description=1&descriptionEditable=Yehezkiel%20Gunawan%27s%20personalized%20Vite%20%2B%20React%20%2B%20Typescript%20%2B%20Chakra%20UI%20Starter%20template&font=Inter&logo=https%3A%2F%2Fseeklogo.com%2Fimages%2FV%2Fvite-logo-BFD4283991-seeklogo.com.png&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/yehezkielgunawan/yehez-vitechakra-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yehezkielgunawan/yehez-vitechakra-starter)
@@ -10,7 +11,7 @@ But if you also find this template is useful, you also can use it. And of course
 ## ⚡ What's include here?
 
 - Toolings for linting, formatting, and conventions configured.
-  Currently, there're just `eslint & prettier`.
+  `eslint`, `prettier`, `husky` & `lint-staged`
 - ✨Basic responsive layout configuration (using Chakra UI media query)
 
 ## How to use it?
@@ -21,7 +22,6 @@ But if you also find this template is useful, you also can use it. And of course
 ```
 npx degit yehezkielgunawan/yehez-vitechakra-starter <YOUR_APP_NAME>
 ```
-
 
 - Then run the local server using `yarn dev` or `npm run dev`
 
@@ -34,7 +34,8 @@ npx degit yehezkielgunawan/yehez-vitechakra-starter <YOUR_APP_NAME>
 - [Sozonome Vite Chakra Starter](https://vite-react-chakra-starter.sznm.dev/) - as my main layout idea reference.
 
 ## Future Improvement
+
 - [x] Update the layout
 - [x] Add ESLint basic configuration
 - [x] Add prettier basic configuration
-- [ ] Husky base config
+- [x] Husky base config
